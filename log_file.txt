@@ -1,0 +1,232 @@
+2024-09-30 22:05:51 - Attentive
+2024-09-30 22:06:01 - Attentive
+2024-09-30 22:06:11 - Not Attentive
+2024-09-30 22:06:21 - Attentive
+2024-09-30 22:06:31 - Not Attentive
+2024-10-01 10:03:14 - Not Attentive
+2024-10-01 10:04:47 - Not Attentive
+2024-10-01 10:05:18 - Not Attentive
+2024-10-01 10:35:11 - Attentive
+2024-10-01 11:13:43 - Not Attentive
+2024-10-01 11:14:13 - Not Attentive
+2024-10-01 11:14:43 - Not Attentive
+2024-10-01 11:15:13 - Attentive
+2024-10-01 11:49:27 - Attentive
+2024-10-01 12:32:55 - Not Attentive
+2024-10-01 12:33:26 - Attentive
+2024-10-01 12:33:56 - Attentive
+2024-10-01 12:49:48 - Attentive
+2024-10-01 14:33:55 - Not Attentive
+2024-10-01 14:36:26 - Attentive
+2024-10-01 14:36:37 - Attentive
+2024-10-01 14:36:47 - Attentive
+2024-10-01 14:50:02 - Attentive
+2024-10-01 14:50:12 - Attentive
+2024-10-01 14:50:22 - Attentive
+2024-10-01 14:50:32 - Not Attentive
+2024-10-01 14:50:43 - Attentive
+2024-10-01 14:50:53 - Not Attentive
+2024-10-01 14:52:37 - Not Attentive
+2024-10-01 14:52:47 - Not Attentive
+2024-10-01 14:52:57 - Attentive
+2024-10-01 14:53:07 - Attentive
+2024-10-10 10:30:50 - Attentive
+2024-10-10 10:31:01 - Not Attentive
+2024-10-10 10:31:11 - Not Attentive
+2024-10-10 10:31:21 - Not Attentive
+2024-10-10 10:31:32 - Not Attentive
+2024-10-10 10:31:42 - Not Attentive
+2024-10-10 10:39:49 - Attentive
+2024-10-10 10:39:59 - Attentive
+2024-10-10 10:40:10 - Attentive
+2024-10-10 10:40:20 - Attentive
+2024-10-10 10:40:30 - Attentive
+2024-10-10 10:40:41 - Attentive
+2024-10-10 10:40:52 - Attentive
+2024-11-05 22:52:43 - Attentive
+2024-11-05 22:52:53 - Not Attentive
+2024-11-05 22:53:03 - Attentive
+2024-11-05 22:53:13 - Not Attentive
+2024-11-05 22:53:23 - Not Attentive
+2024-11-05 22:53:33 - Attentive
+2024-11-05 22:53:43 - Attentive
+2024-11-05 22:53:53 - Attentive
+2024-11-05 23:15:28 - Attentive
+2024-11-05 23:15:38 - Attentive
+2024-11-05 23:15:48 - Attentive
+2024-11-05 23:15:58 - Attentive
+2024-11-05 23:16:08 - Attentive
+2024-11-05 23:16:18 - Attentive
+2024-11-05 23:16:28 - Attentive
+2024-11-05 23:16:38 - Attentive
+2024-11-05 23:16:48 - Attentive
+2024-11-05 23:16:58 - Attentive
+2024-11-05 23:17:08 - Attentive
+2024-11-05 23:30:58 - Attentive
+2024-11-05 23:31:08 - Not Attentive
+2024-11-05 23:31:18 - Not Attentive
+2024-11-05 23:31:28 - Not Attentive
+2024-11-05 23:31:38 - Attentive
+2024-11-05 23:49:07 - Attentive
+2024-11-05 23:49:17 - Attentive
+2024-11-05 23:49:27 - Not Attentive
+2024-11-05 23:49:37 - Not Attentive
+2024-11-05 23:49:47 - Attentive
+2024-11-05 23:49:57 - Not Attentive
+2024-11-05 23:50:07 - Not Attentive
+2024-11-05 23:50:17 - Attentive
+2024-11-05 23:53:45 - Attentive
+2024-11-05 23:53:55 - Not Attentive
+2024-11-05 23:54:05 - Not Attentive
+2024-11-05 23:54:15 - Not Attentive
+2024-11-05 23:54:25 - Not Attentive
+2024-11-05 23:57:31 - Attentive
+2024-11-05 23:57:42 - Not Attentive
+2024-11-05 23:57:52 - Not Attentive
+2024-11-05 23:58:02 - Not Attentive
+2024-11-05 23:58:12 - Not Attentive
+2024-11-05 23:58:22 - Attentive
+2024-11-06 18:34:48 - Attentive
+2024-11-06 18:34:58 - Not Attentive
+2024-11-06 18:35:08 - Not Attentive
+2024-11-06 18:35:18 - Not Attentive
+2024-11-06 19:54:51 - Attentive
+2024-11-06 19:55:01 - Not Attentive
+2024-11-06 19:58:11 - Attentive
+2024-11-06 19:58:22 - Attentive
+2024-11-06 19:58:32 - Face Not Detected
+2024-11-06 19:58:42 - Face Not Detected
+2024-11-06 19:58:52 - Face Not Detected
+2024-11-06 19:59:02 - Face Not Detected
+2024-11-06 19:59:12 - Attentive
+2024-11-06 19:59:22 - Face Not Detected
+2024-11-06 19:59:32 - Face Not Detected
+2024-11-06 20:03:38 - Attentive
+2024-11-06 20:03:48 - Attentive
+2024-11-06 20:03:59 - Attentive
+2024-11-06 20:04:09 - Attentive
+2024-11-06 20:04:19 - Attentive
+2024-11-06 20:04:29 - Attentive
+2024-11-06 20:04:39 - Attentive
+2024-11-06 20:04:49 - Attentive
+2024-11-06 20:04:59 - Attentive
+2024-11-06 20:05:09 - Attentive
+2024-11-06 20:05:19 - Attentive
+2024-11-06 20:05:29 - Attentive
+2024-11-06 20:05:39 - Attentive
+2024-11-06 20:05:49 - Attentive
+2024-11-06 20:06:00 - Attentive
+2024-11-06 20:06:10 - Attentive
+2024-11-06 20:06:20 - Attentive
+2024-11-06 20:06:30 - Attentive
+2024-11-06 20:06:40 - Attentive
+2024-11-06 20:06:50 - Attentive
+2024-11-06 20:07:00 - Attentive
+2024-11-06 20:07:10 - Attentive
+2024-11-06 20:07:20 - Attentive
+2024-11-06 20:07:30 - Attentive
+2024-11-06 20:07:40 - Attentive
+2024-11-06 20:07:50 - Attentive
+2024-11-06 20:08:00 - Attentive
+2024-11-06 20:08:11 - Attentive
+2024-11-06 20:08:21 - Attentive
+2024-11-06 20:08:31 - Attentive
+2024-11-06 20:08:41 - Attentive
+2024-11-06 20:08:51 - Attentive
+2024-11-06 20:09:01 - Attentive
+2024-11-06 20:09:11 - Attentive
+2024-11-06 20:09:21 - Attentive
+2024-11-06 20:09:31 - Attentive
+2024-11-06 20:09:41 - Attentive
+2024-11-06 20:09:51 - Attentive
+2024-11-06 20:10:01 - Attentive
+2024-11-06 20:10:11 - Attentive
+2024-11-06 20:10:22 - Attentive
+2024-11-06 20:10:32 - Attentive
+2024-11-06 20:10:42 - Face Not Detected
+2024-11-06 20:10:52 - Face Not Detected
+2024-11-06 20:11:02 - Face Not Detected
+2024-11-06 22:17:33 - Attentive
+2024-11-06 22:17:54 - Attentive
+2024-11-06 22:18:04 - Attentive
+2024-11-06 22:18:15 - Attentive
+2024-11-06 22:18:26 - Attentive
+2024-11-06 22:18:37 - Attentive
+2024-11-06 22:18:48 - Attentive
+2024-11-06 22:18:59 - Attentive
+2024-11-06 22:19:10 - Attentive
+2024-11-06 22:19:21 - Attentive
+2024-11-06 22:19:31 - Attentive
+2024-11-06 22:19:42 - Face Not Detected
+2024-11-06 22:24:58 - Attentive
+2024-11-06 22:25:09 - Attentive
+2024-11-06 22:25:24 - Attentive
+2024-11-06 22:25:35 - Attentive
+2024-11-06 22:25:45 - Attentive
+2024-11-06 22:25:56 - Attentive
+2024-11-06 22:36:03 - Attentive
+2024-11-06 22:36:13 - Attentive
+2024-11-06 22:36:23 - Not Attentive
+2024-11-06 22:36:34 - Not Attentive
+2024-11-06 22:36:44 - Attentive
+2024-11-07 12:14:00 - Attentive
+2024-11-07 12:14:11 - Not Attentive
+2024-11-07 12:14:21 - Attentive
+2024-11-07 12:14:31 - Not Attentive
+2024-11-07 12:14:41 - Attentive
+2024-11-07 12:14:51 - Not Attentive
+2024-11-07 12:15:02 - Not Attentive
+2024-11-07 12:15:13 - Not Attentive
+2024-11-07 12:15:23 - Not Attentive
+2024-11-07 12:15:33 - Not Attentive
+2024-11-07 12:15:44 - Attentive
+2024-11-07 12:15:54 - Attentive
+2024-11-07 12:16:04 - Attentive
+2024-11-07 12:16:15 - Attentive
+2024-11-07 12:16:25 - Attentive
+2024-11-07 12:16:35 - Attentive
+2024-11-07 12:18:14 - Not Attentive
+2024-11-07 12:18:24 - Attentive
+2024-11-07 12:18:35 - Not Attentive
+2024-11-07 12:18:45 - Not Attentive
+2024-11-07 12:18:55 - Not Attentive
+2024-11-07 12:19:05 - Not Attentive
+2024-11-07 13:01:39 - Attentive
+2024-11-07 13:01:49 - Not Attentive
+2024-11-07 13:01:59 - Attentive
+2024-11-07 13:02:09 - Attentive
+2024-11-07 13:02:19 - Attentive
+2024-11-07 13:02:29 - Attentive
+2024-11-07 13:02:39 - Not Attentive
+2024-11-07 13:02:49 - Not Attentive
+2024-11-07 13:03:00 - Not Attentive
+2024-11-07 13:03:10 - Not Attentive
+2024-11-07 13:03:20 - Not Attentive
+2024-11-07 13:03:30 - Not Attentive
+2024-11-07 13:03:41 - Not Attentive
+2024-11-07 13:03:52 - Attentive
+2024-11-07 13:04:02 - Attentive
+2024-11-07 13:04:12 - Attentive
+2024-11-07 13:04:23 - Attentive
+2024-11-07 13:04:33 - Attentive
+2024-11-07 13:04:44 - Attentive
+2024-11-07 13:04:54 - Attentive
+2024-11-07 13:05:04 - Attentive
+2024-11-07 13:05:14 - Attentive
+2024-11-07 13:05:25 - Attentive
+2024-11-07 13:05:35 - Attentive
+2024-11-07 13:05:46 - Attentive
+2024-11-07 13:05:57 - Attentive
+2024-11-07 13:06:07 - Attentive
+2024-11-07 13:06:18 - Attentive
+2024-11-07 13:06:28 - Attentive
+2024-11-07 13:06:38 - Attentive
+2024-11-07 13:06:48 - Attentive
+2024-11-07 13:06:59 - Attentive
+2024-11-07 13:07:10 - Attentive
+2024-11-07 13:07:20 - Attentive
+2024-11-07 13:07:30 - Attentive
+2024-11-07 13:07:40 - Attentive
+2024-11-07 13:07:50 - Attentive
+2024-11-07 13:08:00 - Attentive
+2024-11-07 13:08:11 - Not Attentive
